@@ -3,4 +3,11 @@
     <color name="colorPrimary">#FF6E40</color>
     <color name="colorPrimaryDark">#CC5833</color>
     <color name="colorAccent">#FF6E40</color>
+
+
+    <color name="ucrop_color_toolbar">#FF6E40</color>
+    <color name="ucrop_color_statusbar">#CC5833</color>
+    <color name="ucrop_color_toolbar_widget">#FFFFFF</color>
+    <color name="ucrop_color_widget_rotate_mid_line">#FF6E40</color>
+    <color name="ucrop_color_widget_background">#FF6E40</color>
 </resources>
